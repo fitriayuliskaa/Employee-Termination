@@ -1,2 +1,2 @@
 # Employee-Termination
-Predict the relationship of variable features related to employee termination.
+03_Employee Termination is predicting the relationship of variable features related to employee termination.
